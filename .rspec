@@ -10,5 +10,3 @@ require_relative './current_age_for_birth_year.rb'
       expect(age_of_person).to eq(answer)
     end
   end
-
-puts "klkentoky mi loco"
