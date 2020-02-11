@@ -8,4 +8,6 @@ require_relative './current_age_for_birth_year.rb'
       age_of_person = current_age_for_birth_year(birth_year)
       expect(age_of_person).to eq(answer)
     end
-  end      
+  end
+
+puts "klkentoky mi loco"
